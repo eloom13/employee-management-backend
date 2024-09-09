@@ -1,5 +1,6 @@
 package com.example.springbootcrudapi.service;
 
+import com.example.springbootcrudapi.exception.UserNotFoundException;
 import com.example.springbootcrudapi.model.Employee;
 import com.example.springbootcrudapi.repo.EmployeeRepo;
 import org.springframework.beans.factory.annotation.Autowired;
