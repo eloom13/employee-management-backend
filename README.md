@@ -13,7 +13,7 @@ A Spring Boot application providing a RESTful API for managing employees with CR
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/employee-management-backend.git
+   git clone https://github.com/eloom13/employee-management-backend.git
    ```
 
 2. **Navigate to the Project Directory:**
